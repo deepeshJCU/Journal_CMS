@@ -1,7 +1,7 @@
 # Week 6
 
 ## Estimated Hours  
-Around 2 hours  
+Around 4 hours  
 
 ## Learning Activities & Resources  
 This week, I focused on learning how to use Trello for task management, along with exploring Git and GitHub in more depth. 
