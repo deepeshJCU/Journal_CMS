@@ -7,6 +7,9 @@ This week, I explored the power of **Sass (Syntactically Awesome Stylesheets)** 
 - [Sass Official Documentation](https://sass-lang.com/guide)
 - [Gulp Documentation](https://gulpjs.com/)
 - [BrowserSync Guide](https://browsersync.io/docs)
+- [Sass Crash Course - YouTube](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+- [Gulp JS Crash Course - YouTube](https://www.youtube.com/watch?v=1rw9MfIleEg)
+- [Browsersync + Sass + Gulp in 15 minutes - YouTube](https://www.youtube.com/watch?v=q0E1hbcj-NI)
 
 ## Estimated Hours
 I spent around **5–6 hours** working on this practical, including setting up the Gulp workflow, debugging SCSS errors, and designing the responsive portfolio site.
